@@ -35,7 +35,7 @@ Deployed here: https://anuradha40.github.io/ToDoList/
    git clone https://github.com/anuradha40/ToDoList.git
 Open index.html in your browser to use the app.
 
-🧰 Usage Instructions
+## 🧰 Usage Instructions
 Enter a task in the input field and click Add, or press Enter
 
 Click a task to mark it completed or undo
@@ -44,14 +44,14 @@ Click Delete beside a task to remove it
 
 Your tasks are automatically saved
 
-📁 Project Structure
+## 📁 Project Structure
 pgsql
 Copy
 Edit
 ToDoList/
 ├── index.html    — The application UI with embedded CSS & JS
 └── README.md     — Documentation for setup & usage
-💡 Future Enhancements
+## 💡 Future Enhancements
 Filtering: view only all / active / completed tasks
 
 Editing existing tasks
@@ -62,7 +62,7 @@ Dark mode/theme support
 
 Adding task due dates and priorities
 
-📄 License
+## 📄 License
 MIT License
 
 Created by anuradha40. Contributions and feedback welcome!
