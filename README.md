@@ -7,7 +7,7 @@ A simple, single-page To‑Do List application built using HTML, CSS, and JavaSc
 
 ## 🖼️ Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](file:///C:/Users/M%20ANURADHA/OneDrive/Desktop/Projects/To-Do%20List/index.html)
 
 ---
 
